@@ -1,13 +1,16 @@
 *GOAL*
+======
 The goal of the project is to prepare tidy data that can be used for later analysis from an initial dataset from other experiment.
 
 *SOURCE*
+========
 
 The original information comes from this source:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 *DATASET INFORMATION*
+=====================
 
 The initial data is a subset of the Human Activity Recognition Using Smartphones Data Set ("UCI HAR Dataset" directory located in the working directory after downloaded from the source).
 
@@ -23,8 +26,8 @@ Finally, from the "r_train_test" a second, independent tidy data set was created
 Check the CodeBook.md file for further details about the features.
 
 
-The dataset includes the following files:
-=========================================
+*The dataset includes the following files:*
+
 
 - 'README.md'
 
@@ -44,6 +47,7 @@ The dataset includes the following files:
 
 
 *SCRIPT*
+========
 
 I include here the comments from the script, that shows how it works.
 

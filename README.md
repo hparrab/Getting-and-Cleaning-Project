@@ -1,5 +1,5 @@
 *GOAL*
-======
+=======
 The goal of the project is to prepare tidy data that can be used for later analysis from an initial dataset from other experiment.
 
 *SOURCE*
